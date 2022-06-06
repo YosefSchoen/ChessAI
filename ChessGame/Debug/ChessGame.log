@@ -1,0 +1,6 @@
+﻿  ChessGame.cpp
+c:\users\josep\source\repos\chessgame\chessgame\chessgame.cpp(20): warning C4101: 'endFile': unreferenced local variable
+c:\users\josep\source\repos\chessgame\chessgame\chessgame.cpp(18): warning C4101: 'startFile': unreferenced local variable
+c:\users\josep\source\repos\chessgame\chessgame\chessgame.cpp(17): warning C4101: 'startRank': unreferenced local variable
+c:\users\josep\source\repos\chessgame\chessgame\chessgame.cpp(19): warning C4101: 'endRank': unreferenced local variable
+  ChessGame.vcxproj -> C:\Users\josep\source\repos\ChessGame\Debug\ChessGame.exe
